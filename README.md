@@ -12,6 +12,7 @@ Duration : 8 WEEKS
 
 MENTOR : Neela Santosh
 
+## Description:
 In this project what we have done is that we downloaded the datasets from KAGGLE, we have downloaded loan, customers credit card and transactions datasets.After downloading the datsaets we have cleaned the data . 
 
 
